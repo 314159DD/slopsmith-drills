@@ -1,0 +1,6 @@
+out/
+vendor/
+__pycache__/
+*.pyc
+.venv/
+*.sloppak
